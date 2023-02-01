@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gunjan1653" target="blank"><img src="https://img.shields.io/twitter/follow/@gunjan1653?logo=twitter&style=for-the-badge" alt="@gunjan1653" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Gunjan1116.github.io](Gunjan1116.github.io)
+- 👨‍💻 All of my projects are available at [Gunjan1116.github.io](https://gunjan1116.github.io/)
 
 - 💬 Ask me about **Node, Express, JavaScript, MongoDB, HTML and CSS**
 
