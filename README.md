@@ -11,8 +11,8 @@
 
 - 💬 Ask me about **Node, Express, JavaScript, MongoDB, HTML and CSS**
 
-- 📫 How to reach me **kumargunjan1116@gmail.com**
-
+<!-- - 📫 How to reach me **kumargunjan1116@gmail.com**
+ -->
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aF_pPDvSQYfG2PSfxGCRkD2T4sPbCHSE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
