@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gunjan Kumar</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">An enthusiastic and creative Full-Stack Web Developer with appropriate skills who's always willing to learn and work across technology and domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan1116&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan1116" /> </p>
 
