@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Gunjan1116.github.io](https://gunjan1116.github.io/)
 
-- 💬 Ask me about **Node, Express, JavaScript, MongoDB, AWS, HTML and CSS**
+- 💬 Ask me about **Node, Express, NestJs, PostgreSQL, JavaScript, MongoDB, Mongoose, TypeORM, AWS, HTML and CSS**
 
 <!-- - 📫 How to reach me **kumargunjan1116@gmail.com** -->
 
