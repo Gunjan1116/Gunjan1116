@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gunjan Kumar</h1>
-<h3 align="center">An enthusiastic and creative Full-Stack Web Developer with appropriate skills who's always willing to learn and work across technology and domains.</h3>
+<h3 align="center">An enthusiastic and creative Backend Developer with appropriate skills who's always willing to learn and work across technology and domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan1116&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan1116" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Gunjan1116.github.io](https://gunjan1116.github.io/)
 
-- 💬 Ask me about **Node, Express, NestJs, PostgreSQL, JavaScript, MongoDB, Mongoose, TypeORM, AWS, HTML and CSS**
+- 💬 Ask me about **Node.js, Express, NestJs, PostgreSQL, JavaScript, MongoDB, Mongoose, TypeORM, AWS, HTML and CSS**
 
 <!-- - 📫 How to reach me **kumargunjan1116@gmail.com** -->
 
